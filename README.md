@@ -1,4 +1,4 @@
-Writing Temperature Data to Google Sheets using ESP32
+#Writing Temperature Data to Google Sheets using ESP32
 This project demonstrates how to utilize an ESP32 microcontroller to read temperature data from a sensor and send it to a Google Sheets spreadsheet for logging and visualization. This can be particularly useful for environmental monitoring, home automation, or any application where remote temperature monitoring is required.
 
 Requirements

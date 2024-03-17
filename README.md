@@ -52,6 +52,5 @@ This project demonstrates how to utilize an ESP32 microcontroller to read temper
 
 Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull requests.
 
-## License
+![Temperature](https://github.com/Nemanja5199/ESP32-Temperature-Writing-to-Google-Sheets/assets/91099510/a2a9d9c5-159c-43c5-a89e-4eee879c7ea9)
 
-This project is licensed under the [MIT License](LICENSE).

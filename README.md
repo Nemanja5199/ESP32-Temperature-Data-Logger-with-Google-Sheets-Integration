@@ -18,7 +18,7 @@ This project demonstrates how to utilize an ESP32 microcontroller to read temper
 
 2. **Google Sheets Setup:**
    - Create a new Google Sheets document.
-   - Enable the Google Sheets API and generate credentials (OAuth 2.0 client ID) following [these instructions](https://developers.google.com/sheets/api/quickstart).
+   - Enable the Google Sheets API and generate credentials (OAuth 2.0 client ID) following [these instructions]([https://developers.google.com/sheets/api/quickstart](https://randomnerdtutorials.com/esp32-datalogging-google-sheets/)).
    - Note down the generated credentials (client ID, client secret, etc.).
 
 3. **Software Setup:**
